@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "enhancedblock:stone_one"
+        }
+    },
+    "result": {
+        "item": "enhancedblock:stone_two",
+        "count": 1
+    }
+}

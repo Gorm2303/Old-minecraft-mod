@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#W#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "enhancedblock:stone_four"
+        },
+        "W": {
+            "item": "minecraft:diamond_pickaxe"
+        }
+    },
+    "result": {
+        "item": "enhancedblock:ultimate_diamond_pickaxe",
+        "count": 1
+    }
+}

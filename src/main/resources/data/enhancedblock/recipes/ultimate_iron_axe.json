@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#W#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "enhancedblock:stone_two"
+    },
+    "W": {
+      "item": "minecraft:iron_axe"
+    }
+  },
+  "result": {
+    "item": "enhancedblock:ultimate_iron_axe",
+    "count": 1
+  }
+}

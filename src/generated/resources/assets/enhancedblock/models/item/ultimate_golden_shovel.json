@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "enhancedblock:item/ultimate_golden_shovel"
+  }
+}

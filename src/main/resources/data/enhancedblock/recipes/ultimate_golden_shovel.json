@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#W#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "enhancedblock:stone_three"
+    },
+    "W": {
+      "item": "minecraft:golden_shovel"
+    }
+  },
+  "result": {
+    "item": "enhancedblock:ultimate_golden_shovel",
+    "count": 1
+  }
+}
